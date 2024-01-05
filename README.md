@@ -1,6 +1,6 @@
 # Pokedex com Dio - Projeto de Desenvolvimento
 
-Este repositório contém um projeto de Pokedex desenvolvido como parte do curso "Desenvolvimento de Aplicações Modernas e Escaláveis com Microsserviços", oferecido pela Digital Innovation One (DIO). O objetivo do projeto é criar uma aplicação simples, porém completa, para explorar conceitos de desenvolvimento web, consumindo uma API externa para obter informações sobre Pokémon.
+Este repositório contém um projeto de Pokedex desenvolvido como parte do bootcamp "Coding The Future Banco PAN - Desenvolvimento Frontend com Angular", oferecido pela Digital Innovation One (DIO). O objetivo do projeto é criar uma aplicação simples, porém completa, para explorar conceitos de desenvolvimento web, consumindo uma API externa para obter informações sobre Pokémon.
 
 ## Funcionalidades
 
